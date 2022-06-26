@@ -1,6 +1,6 @@
 # Beecrowd
 
-![Badge Java](https://img.shields.io/static/v1?label=Java&message=17&color=orange&style=for-the-badge&logo=java)
+![Badge Java](https://img.shields.io/static/v1?label=Java&message=14&color=orange&style=for-the-badge&logo=java)
 
 ## :book: Resumo
 Repositório para armazenar minhas respostas do Beecrowd.

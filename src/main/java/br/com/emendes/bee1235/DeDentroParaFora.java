@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 // Desafio 1235
 public class DeDentroParaFora {
-
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 

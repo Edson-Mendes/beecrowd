@@ -1,100 +1,29 @@
-abcd^/-e-f-gh^i*j/kl^*m/no^*p*-qr*+s+t+uv^w*x/+y+z+
-abc^d/-e+fg^h^-i-j+k+lm*no^*pq^*r/+stu^v^/w/+x-yz/-
-ab^c*de*f/g*+hi*+jk*+lm^-no*-pq^r^s^+tu/-vwx^*y/-z+
-ab/c*d+ef^g^+h-i-jk/-l-m-n+o-pq^r*s/-t-u-vw*+xy^-z+
-ab^cd*e/fg^h^/ij^*+k-l-mn*+op^q*r/+st^u^v/w/+x-y-z-
-ab/c/d/ef^g/hi^*j*kl^/m/n*o*p/q/-rs/t*uv^*+w-xy^-z+
-ab*c/de^/fgh^*i*-j+k+l-mn^o/-pq*rs^t^*+uvw^x^*y*z/-
-ab/cd^*ef/-gh^i/j*k/-lm^n^o^+p-q-rs*+tu/+vw/xy^z^/+
-abc/-d-ef*+gh^i^-j-k+lm^n^o/+pq^-r+s+tu^v*+w-x+yz^-
-ab/cd*e/f*g/-h+i+j-kl/m/+no^p^q^r^-s+tu/v*+wx/y*+z+
-ab/cd^-e+fg/h/+ij*kl^*-mn^+opq^r^*s*tu^/v/w*x/y/z*-
-ab/cd^e^+f+gh*+i-jk*-lm^n*-o+p-q-rs/-tu*v*w*xy^*+z+
-ab/c*d*e/f-gh*i/-j-kl/m/-nop^q^*+rs/+t-u+v-wxy^/+z+
-abc*d*-ef/g*+h+i-jkl^/m/n*o*-pq/rs^/-t+u+vw^+xy/z/+
-ab/cd/-ef*gh^/-ij/-k-lm*+nop^/-qrs^*t*+u-vwx^/+y-z+
-ab^c-de*+fg/-hi*j/kl^/+m-n+op^-qrs^/t/-uv/-w+xy^z^+
-ab/cd*-ef*+g+h-i+jk/+l-m+n+op/+q-r-s-tu^v/w*x*y*z*-
-abc*d*e*f/g*+hi^-j-kl/-mn*o/p/q/-rs/t/-uvw^x^/y*z*-
-ab^c+de/fg^h^*+ij*-kl^-mn^-op*q*r/+s-tuv^/+wx^+y+z+
-ab*cd*+efg^*-hi*+jk^-l-mno^/p/-qr/-st/u/-v+w+x-y-z+
-abc/d*-ef/g/h*i/+jk^lm^/+no*-p-qr^s*+tu/vw^x^*+yz*+
-ab^cd*e/f*+gh^+ij*+k+l+mn*+o+pq/r/s*+t+uv/w*x*y*z/-
-ab*cd*-e-f-g-h-ijk^/-lm/+no*+p-qr*+s-tuv^/+wx/+y-z+
-ab^cd/e/f/g/-hi^jk^*-lm/+no/+p-qr^-st*u/vw^/+x-yz^-
-ab-c+de^f/g*+hi^jk^*l*-mn*o/p*q*+rs*tu^v^*+w-x+y-z+
-abc^d^/ef*-gh*i/jk^/l/-mn*o/p/+qr*-st^+u-v+wx/y*-z+
-ab^cde^f^/g/-h+i+jk/l/+mn/op^/q*-r-st^-u-vwx^*y*z/-
-ab*c*d-ef^g^+hi/j*+kl*m/n/o/-pq*r/s/+t+uv^w^x^-y+z+
-abcd^*e*-f-gh^i/+j-kl^m*-no*p*-qr*+st/u*v*w*x*+yz^+
-abc^/de^+f-g+hi/j*k*+lm*no^/p/-q+r-st/-uv/+wx^+y+z-
-abc*d/ef^/-gh/i/+jkl^/m/+n+o+p+qr/s*t/+uv*+w+x-yz^+
-ab-c+d-ef*gh^*-i-j-k+lm/+n+op/+qr*+s-tu*v/-wx*-y+z-
-ab*cd*e/+fg/h*+ij^k/l/mn^*-o+pq^r*s/t*u/+vw*-x+yz/+
-ab^c/d-e-fgh^/-i-jk*l/+mn^o^p^q^+rs/+tu*v/-wx^+yz^-
-ab*cd*e*f*g*h/+ij^+klm^/+n-o-pq/-r+s-tu^v*+w-x-yz*-
-abc^/de/fg^/h*i/j/k*+l+m-no*p*q*+r-st/u*vw^*x*-yz^+
-ab^c*d*e*f/g+hi/-j+k-l-mn/-o-pq*+rs/t/-u+vw*x/y/+z-
-ab-c+d+e+f+g-hi^-jk^l/+mn*+op*qr^/-st/-u+v-wx/-yz^-
-ab+cde^f^g^/h*-i-jk^lm^/-no*-pq*r*+st^+u+vw^x^+yz*-
-abc^d/-efg^*h*i/j/-kl^m^-no*+pq^r*-s+tu^+vw^x^y/z/+
-ab^cde^*f/g*hi^*+j+k-l-mn/+o-p+q-rs^+tu^-v+w+xy/z/-
-ab*cd*+ef/g/-h-ij*k*lm^n^/o*+p+q+rs*+t+uv*w/x/-yz^-
-abc^*d*e/f*ghi^j^k^/l/m*+n+opq^*+r-s-tu/v/wx^/-yz^+
-abc^de^*fg^/hi^/+jk^-lm/n*-op^+q-rs^t^u/+v-wx^y*+z-
-ab^c/de/+f+g-h-ij/k*+lm^no^*p*+qr*-stu^/v*w*x*+y-z-
-abc*de^/+f-ghi^/+jk^+l+mn*o*-p-qr*-st/-u-vw*+xy/+z+
-ab^cd*+e-f-g+hij^/k*-lm^n/-o-pq^rs^/-t-u+vw^x^yz^/+
-abc^*de*f*g*-hi*-j-k+lm^n/o/+p+q-r-s-tu*v*-wx*+yz/-
-ab*cd^/ef^/g/hi/+jk*lm^*+n-op*-q-r-st^-u-vw*x*y*-z+
-ab*c-de^f^+gh^+ij^kl^*+mno^/p*q*r/+st/-u-v+wx*y*-z-
-ab+c+de^+f+gh/i/j/-k+lm^+n-o+pqr^/s*t/+uv^w/x/y*+z-
-ab^c/d/e/f*g-hi*+j-kl^m^-n+op/q*+rs^t/+u+vw/-xy^z*-
-abc/d*-e-fg/h*-ij/k*l/-mn^o*-p+qrs^*t*uv^*+wx*yz^/-
-ab^c*d/e+fg*h/-ij^-klm^*-no/+pq*r/s/t/+uv/w/-x+yz/+
-ab*cd^-ef*-g-hi^j^k*+lm/n*op^/q/+rs/t/-u-vw*xy^*z*+
-abc^/de/+f-gh*i/j*k/+lm/+no^pq^*+rs*-tu^-v-wx*-y-z-
-abc*-de/f/g*+hij^k^l^*-mn/o*p*+qr^-st/uv^/wx^*y/+z+
-abc^/de/-fgh^i^j^*k*l*+mn/o*-pq^r/+st*uv^*+w+x-yz/-
-ab^c*d*e+fg*+hi^+jk/lm^*n*o/pq^/rs^t^/+uv^w/+xy*z*+
-ab*c/d*e+fg*+hij^*-k-lm/n/+o-pq*rs^/+tu*v*-w-xy/z*+
-ab*c+def^*-g+hi*-jkl^/mn^o^p^*qr^s^*+t+u+vw*+x-yz^-
-abc^d*+ef^g^h^i^j*k/+l+m+no/-pq^r^s*t/u/v/+wx^y/+z+
-ab*c+de/+f-gh/i*-j+kl*+mn^op^q^r^s^/-tu^v^w^+xyz^/+
-abcd^*-ef*+gh*i*j/-kl/+m-n+o-p-q+rs/+tuv^/wx^*-yz*+
-ab+cd/-ef^g^h^i/jk^/-lm*no^*pq^*+rs^t*+uv*w*x/y*-z-
-abc/d/e/f/g/-hi^j/k/+lm/no^*p/q*r*s*-tu/-vw*x/+yz^-
-ab^cd^/e*f/g+h-i-j+k-l+mn/+op^q*r*s*-tu^-v+wx/y/+z-
-ab-c+d-e+fg*-h-i-j-k-lmn^/o/-pq*-r+s-t+uv*w*-xy^z^-
-abcd^*+ef*g/+hi*-jk/-lm/+no/p*q/+r+st*u/vw^/+x+y+z-
-abc^d^ef^*-gh^i/+jk^-l+mno^/p*-q-rs/tu^/-v+w-xy*-z+
-ab-cd^-ef/g/h/ij^*k*lm^/n*o/p*q/rs^/-tu^v/w/x*y/-z-
-ab*c/d/e/f/g+h+ij*-k-l-m+n-op^q^r^s/tu^/v*+w-xy/+z+
-ab^c*d/e*f*g-h-i-j-k-lm*n/op^*q*rs^/t/-uvw^/+xyz^/-
-ab-cd/+e-fg/h*-ijk^/lm^*n*+o+pq^-rst^/u/v*-wx/y/z*-
-ab^cd/e*-fg/h/-i-jk^l^-mno^p^*q/r*s/-tu*-vwx^y^*-z-
-ab^c/d+e+fg*-hi^j*k/-l+mno^*p/q/r/+s-tu/+v+wx*-yz^-
-abc*-d-ef^g^h*i*+jk^-l-mn*o*p/+q+r+st^u^v^+wx^y*z*+
-ab^c/d/ef^g*h/i/-j+kl*mn^*o*p/+q+rs^tu^*v*+wx^yz^*+
-ab/c/d-e+fg^h^-ij*k/l*m*n/-op*+q+rs^tu^*v/wx^y^*+z+
-ab/c-de/f/+ghi^/j/-k+lm^n*o/+p-q+rs/+t+uv/+wxy^*z*+
-abc^-d+ef/g*+hi^j^-k-lm*+no^p*q*-r-st^u^v/-w-xy/-z-
-abc/d/-ef/-ghi^*j/-kl/m*+no^-pq^r^s/-t+u+vw*x/y*z/-
-ab^cd^*ef/gh^*i/+j-klm^/n*op^q^/+r-s-t+uv*+wx*y*z*-
-ab^c+de/-f+gh*i*+jk/lm^*n*o/pq^*-r-stu^/-vw/x*y/z/+
-ab/c+def^g^*+h-i+jk^+lmn^o^*+pq^r^s*t/uv^*w*x/y*-z+
-abc^d/e*fg^*hi^*+jk^-l+m+n-op*q*r*s*t/u*v/w*x/+y+z+
-ab+cd^-e+f+g+h+i-j+k+lm^no^*+pq^+rs*t*u*-vw^x^y^z/+
-ab/c*d*ef^/g/h/i*j*klm^*n/-o+pq/+rs^t/+uv*w*x*-yz^-
-ab^c-d+ef*-g+hi^j/-k+lm/+no*+pq/+rs*t*-uv*w*-xy/-z+
-ab*cd*ef^*g/h/+i+jk^l/-mno^p^/-q+rs*tu^*+vw/+xy*-z+
-ab*cd*-ef^-g+hij^*k*+lm/-nop^/q*r/s*t*u/v*w*-x+yz*-
-ab^c/d+ef*g*+hij^/+kl/-m-n-o+p-qr/-st*-u-vw^+xy*z*+
-ab+c-d-e+fg/+hi/-jk^+lmn^o^p^*qr^*-s+t+u-v-wx^y*z/-
-abc^-def^/g*h/i*j/+klm^*+nop^/q*-rs^-tu*v/-wx*+y+z-
-ab/c*d*e/fg/-hi/jk^/l*-mn*+o-pq^r^+stu^*v/-w+xy*z/+
-ab*cd^e^*f*g+h+ij^-k+lm*+no/p*q*rs^*-tu/v*-wx^y/z*+
-ab/cd*e/-f+gh/i*-jk^l*m*+no/p/-qr/st^/u/-v+w-xy*z*+
-abc^d^-ef*g*+h-i-j-kl/mn^*op^/-q-rs/t*+uvw^*+xy*-z+
-ab^c*d*e+f-gh/-i+j-k+l+m+no/-pq/-r-st^-uv*-w+x-y-z+
-ab^cd^+ef*+gh^-i-j+kl/mn^*-o+p+q+r+st/u/v/+wxy^*z/-
+Instancia 1
+1 2 4 5 3
+
+Instancia 2
+2 1 3
+
+Instancia 3
+1 2 3
+
+Instancia 4
+2 1 3
+
+Instancia 5
+4 3 1 2
+
+Instancia 6
+5 3 4 9 2 1 8 6 7 10
+
+Instancia 7
+26 18 14 16 13 23 4 7 29 21 2 10 28 12 9 5 1 24 15 25 17 30 3 27 6 22 19 11 8 20
+
+Instancia 8
+27 3 4 14 11 13 10 24 15 23 5 25 9 8 1 16 28 19 29 20 6 18 26 2 17 22 12 7 21 30
+
+Instancia 9
+5 62 27 86 60 58 12 13 48 72 35 11 33 40 28 24 97 57 23 34 94 36 16 82 91 83 43 81 71 96 75 92 61 66 7 89 74 44 45 41 56 19 32 37 26 67 14 55 39 69 87 4 6 73 49 38 79 1 31 77 52 53 30 50 84 10 80 54 65 59 17 85 88 51 95 29 22 63 100 64 78 2 70 47 15 99 68 46 93 90 42 20 3 18 9 98 8 25 21 76
+
+Instancia 10
+1 4 5 3 10 9 2 7 8 6
